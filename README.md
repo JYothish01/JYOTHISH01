@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JYothish01
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding,crypto
 - 🌱 I’m currently learning Python,Computer Networks, etc.,
 - 📫 jyothishmj99@gmail.com  -- Contact me
 
